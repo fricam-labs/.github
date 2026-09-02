@@ -14,4 +14,3 @@ Questions, feature ideas, product feedback, and reproducible bug reports belong 
 - [Report a security vulnerability privately](https://github.com/fricam-labs/community/security/advisories/new)
 
 Fricam is independent software and is not affiliated with the Frigate project.
-Public profile and organization-wide community health files
